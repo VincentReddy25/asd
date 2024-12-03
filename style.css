@@ -1,0 +1,17 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+video {
+    width: 100vw;
+    height: 101vh;
+
+    position: fixed;
+    z-index: -999999;
+
+
+}
